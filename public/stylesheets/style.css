@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+div#worms {
+  padding: 2px;
+  border: 3px solid blue;
+  border-radius: 15px;
+  min-width: 500px;
+  }
